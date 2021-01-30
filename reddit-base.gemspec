@@ -25,6 +25,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rake", '>= 12.3.3'
 
   spec.add_dependency 'faraday-manual-cache'
-  spec.add_dependency 'faraday_middleware-reddit', github: 'IBazylchuk/faraday_middleware-reddit'
+  #spec.add_dependency 'faraday_middleware-reddit', github: 'IBazylchuk/faraday_middleware-reddit'
   spec.add_dependency 'hashie'
 end
